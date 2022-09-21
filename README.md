@@ -6,7 +6,7 @@
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/597438433807302656)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCMNig4bTTevyPmJ7b3BvzYw)
 
-# Diğer
+### Diğer
 [![Profile Wiews](https://komarev.com/ghpvc/?username=sasprosko590)]
 
 <div>
