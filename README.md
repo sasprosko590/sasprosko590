@@ -7,6 +7,9 @@
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/597438433807302656)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCMNig4bTTevyPmJ7b3BvzYw)
 
+## 😂 İşte sizi güldürecek rastgele bir şaka!
+! [Şakalar Kartı] ( https://readme-jokes.vercel.app/api)
+
 <div >
 <h3>Github Stat</h3>
    <a href="https://github.com/sasprosko590" target="_blank">
