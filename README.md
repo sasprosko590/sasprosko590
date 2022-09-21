@@ -4,8 +4,8 @@
 
 <h3> Sosyal Medya Hesaplarım </h3>
 
-[![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/JPu6Xm8yyP)
-[![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UC1aIvE7CDLac8wgQZODMjFQ)
+[![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/597438433807302656)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCMNig4bTTevyPmJ7b3BvzYw)
 
 <div >
 <h3>Github Stat</h3>
