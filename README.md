@@ -8,7 +8,7 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCMNig4bTTevyPmJ7b3BvzYw)
 
 [![Profile Wiews](https://komarev.com/ghpvc/?username=sasprosko590)]
-
+[![Şakalar Kartı](https://readme-jokes.vercel.app/api)]
 <div>
 <h3>Github Stat</h3>
    <a href="https://github.com/sasprosko590" target="_blank">
