@@ -1,11 +1,13 @@
 ## Merhaba <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-[![Profile Wiews](https://komarev.com/ghpvc/?username=sasprosko590)]
 - Kendimden kısaca bahsedeyim; Adım Umut, 15 yaşındayım, çok yakışıklı, komik, özgüvenli ve ekonomist birisiyim. (Taliplerimi bekliyorum feqwfqwflq)
 
 <h3> Sosyal Medya Hesaplarım </h3>
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/597438433807302656)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCMNig4bTTevyPmJ7b3BvzYw)
+
+# Diğer
+[![Profile Wiews](https://komarev.com/ghpvc/?username=sasprosko590)]
 
 <div>
 <h3>Github Stat</h3>
