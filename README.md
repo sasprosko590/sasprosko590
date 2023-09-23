@@ -1,5 +1,5 @@
 ## Merhaba <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-- Kendimden kısaca bahsedeyim; Adım Umut, 15 yaşındayım, çok yakışıklı, komik, özgüvenli ve ekonomist birisiyim. (Taliplerimi bekliyorum feqwfqwflq)
+- Kendimden kısaca bahsedeyim; Adım Umut, 17 yaşındayım, çok yakışıklı, komik, özgüvenli ve ekonomist birisiyim. (Taliplerimi bekliyorum feqwfqwflq)
 
 <h3> Sosyal Medya Hesaplarım </h3>
 
